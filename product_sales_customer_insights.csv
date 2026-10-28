@@ -1,0 +1,46 @@
+Date,Region,Category,Product,Quantity,Unit_Cost,Unit_Price,Sales_Channel,Customer_Type,Revenue,Cost,Profit,Month,Margin_%
+2026-01-03,North,Electronics,Wireless Mouse,25,12.5,29.99,Online,Returning,749.75,312.5,437.25,Jan,58.32
+2026-01-05,South,Home,Storage Box,40,4.2,9.99,Store,New,399.6,168.0,231.6,Jan,57.96
+2026-01-08,East,Beauty,Face Wash,32,3.1,7.5,Online,New,240.0,99.2,140.8,Jan,58.67
+2026-01-12,West,Electronics,USB-C Cable,55,2.0,6.99,Online,Returning,384.45,110.0,274.45,Jan,71.39
+2026-01-15,North,Home,Desk Lamp,18,14.0,29.5,Store,Returning,531.0,252.0,279.0,Jan,52.54
+2026-01-19,South,Fashion,Cotton T-Shirt,60,5.5,14.99,Online,New,899.4,330.0,569.4,Jan,63.31
+2026-01-22,East,Electronics,Bluetooth Speaker,14,22.0,44.99,Store,Returning,629.86,308.0,321.86,Jan,51.1
+2026-01-25,West,Beauty,Sunscreen,27,6.0,13.99,Online,New,377.73,162.0,215.73,Jan,57.11
+2026-02-02,North,Fashion,Backpack,21,13.0,27.99,Online,Returning,587.79,273.0,314.79,Feb,53.55
+2026-02-06,South,Electronics,Wireless Mouse,34,12.5,29.99,Store,Returning,1019.66,425.0,594.66,Feb,58.32
+2026-02-09,East,Home,Water Bottle,48,3.5,10.99,Online,New,527.52,168.0,359.52,Feb,68.15
+2026-02-13,West,Fashion,Cotton T-Shirt,45,5.5,14.99,Store,Returning,674.55,247.5,427.05,Feb,63.31
+2026-02-17,North,Beauty,Face Wash,39,3.1,7.5,Online,Returning,292.5,120.9,171.6,Feb,58.67
+2026-02-21,South,Home,Desk Lamp,16,14.0,29.5,Online,New,472.0,224.0,248.0,Feb,52.54
+2026-02-24,East,Electronics,USB-C Cable,70,2.0,6.99,Online,Returning,489.3,140.0,349.3,Feb,71.39
+2026-03-01,West,Home,Storage Box,52,4.2,9.99,Online,Returning,519.48,218.4,301.08,Mar,57.96
+2026-03-05,North,Electronics,Bluetooth Speaker,17,22.0,44.99,Online,New,764.83,374.0,390.83,Mar,51.1
+2026-03-09,South,Beauty,Sunscreen,31,6.0,13.99,Store,Returning,433.69,186.0,247.69,Mar,57.11
+2026-03-13,East,Fashion,Backpack,23,13.0,27.99,Online,Returning,643.77,299.0,344.77,Mar,53.55
+2026-03-18,West,Electronics,Wireless Mouse,29,12.5,29.99,Store,New,869.71,362.5,507.21,Mar,58.32
+2026-03-22,North,Home,Water Bottle,58,3.5,10.99,Online,Returning,637.42,203.0,434.42,Mar,68.15
+2026-03-26,South,Fashion,Cotton T-Shirt,72,5.5,14.99,Online,Returning,1079.28,396.0,683.28,Mar,63.31
+2026-03-29,East,Beauty,Face Wash,44,3.1,7.5,Store,Returning,330.0,136.4,193.6,Mar,58.67
+2026-04-02,West,Electronics,USB-C Cable,63,2.0,6.99,Online,Returning,440.37,126.0,314.37,Apr,71.39
+2026-04-06,North,Fashion,Backpack,28,13.0,27.99,Store,New,783.72,364.0,419.72,Apr,53.55
+2026-04-10,South,Home,Storage Box,47,4.2,9.99,Online,Returning,469.53,197.4,272.13,Apr,57.96
+2026-04-14,East,Electronics,Bluetooth Speaker,19,22.0,44.99,Online,Returning,854.81,418.0,436.81,Apr,51.1
+2026-04-18,West,Beauty,Sunscreen,35,6.0,13.99,Store,New,489.65,210.0,279.65,Apr,57.11
+2026-04-22,North,Electronics,Wireless Mouse,41,12.5,29.99,Online,Returning,1229.59,512.5,717.09,Apr,58.32
+2026-04-27,South,Fashion,Backpack,24,13.0,27.99,Store,Returning,671.76,312.0,359.76,Apr,53.55
+2026-05-02,East,Home,Desk Lamp,22,14.0,29.5,Online,Returning,649.0,308.0,341.0,May,52.54
+2026-05-06,West,Fashion,Cotton T-Shirt,67,5.5,14.99,Online,Returning,1004.33,368.5,635.83,May,63.31
+2026-05-10,North,Beauty,Face Wash,46,3.1,7.5,Store,New,345.0,142.6,202.4,May,58.67
+2026-05-14,South,Electronics,USB-C Cable,82,2.0,6.99,Online,Returning,573.18,164.0,409.18,May,71.39
+2026-05-18,East,Home,Water Bottle,53,3.5,10.99,Store,Returning,582.47,185.5,396.97,May,68.15
+2026-05-22,West,Electronics,Bluetooth Speaker,16,22.0,44.99,Online,New,719.84,352.0,367.84,May,51.1
+2026-05-26,North,Fashion,Cotton T-Shirt,75,5.5,14.99,Online,Returning,1124.25,412.5,711.75,May,63.31
+2026-05-30,South,Beauty,Sunscreen,38,6.0,13.99,Online,Returning,531.62,228.0,303.62,May,57.11
+2026-06-03,East,Electronics,Wireless Mouse,36,12.5,29.99,Store,Returning,1079.64,450.0,629.64,Jun,58.32
+2026-06-07,West,Home,Storage Box,61,4.2,9.99,Online,New,609.39,256.2,353.19,Jun,57.96
+2026-06-11,North,Electronics,USB-C Cable,91,2.0,6.99,Online,Returning,636.09,182.0,454.09,Jun,71.39
+2026-06-15,South,Fashion,Backpack,32,13.0,27.99,Online,Returning,895.68,416.0,479.68,Jun,53.55
+2026-06-19,East,Beauty,Face Wash,51,3.1,7.5,Online,Returning,382.5,158.1,224.4,Jun,58.67
+2026-06-23,West,Home,Water Bottle,64,3.5,10.99,Store,Returning,703.36,224.0,479.36,Jun,68.15
+2026-06-27,North,Electronics,Bluetooth Speaker,20,22.0,44.99,Online,New,899.8,440.0,459.8,Jun,51.1
